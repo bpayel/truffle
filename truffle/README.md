@@ -9,6 +9,9 @@ npm install -g truffle
 truffle version
 
 truffle init 
+
 truffle compile
+
 truffle test
+
 truffle migrate
